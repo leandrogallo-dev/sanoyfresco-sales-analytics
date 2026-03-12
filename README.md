@@ -73,7 +73,7 @@ The analysis answers several key business questions:
 The dataset represents transactional sales data from a retail system.
 
 The main table analyzed is: 
-'''tickets'''
+```tickets```
 
 It includes fields such as:
 
@@ -128,7 +128,7 @@ These metrics are commonly used in **business intelligence dashboards and retail
 
 # 📂 Repository Structure
 
-'''
+```
 sanoyfresco-sales-analytics
 │
 ├── datasets/ # Dataset used for the analysis
@@ -138,13 +138,38 @@ sanoyfresco-sales-analytics
 │
 ├── README.md # Project documentation
 └── LICENSE
-'''
+```
 
 ---
 
-# 🚀 How to Use
+## 🛡️ License
 
-1️⃣ Clone the repository
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-```bash
-git clone https://github.com/leandrogallo-dev/sanoyfresco-sales-analytics.git
+---
+
+# 👨‍💻 About Me
+
+Hi! I'm **Leandro Gallo**, a **Systems Engineering student** from Argentina with a strong interest in:
+
+- Data Engineering
+- Data Analytics
+- Backend Development
+- Cybersecurity
+- Software Development
+
+I enjoy building **data pipelines, automation tools, and data-driven systems**, and I am currently developing projects to strengthen my skills in **data architecture, SQL development, and analytics**.
+
+This repository is part of my **technical portfolio**, where I showcase projects related to:
+
+- Data Warehousing
+- ETL Pipelines
+- Data Modeling
+- Analytics
+
+---
+
+# 🔗 Connect With Me
+
+📧 Email  
+leandrogallo698@gmail.com

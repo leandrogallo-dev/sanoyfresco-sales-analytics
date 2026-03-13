@@ -63,9 +63,11 @@ This dashboard provides an overview of the **overall business performance**.
 | **Ticket Medio por Cliente** | Average spending per customer |
 
 ---
-# 🛒 Market Basket Analysis Dashboard
+## 🛒 Market Basket Analysis
 
-![Market Basket Dashboard](scripts/market basket-analytics-algorithm/MBA.md)
+See the full documentation here:
+
+[![Open Documentation](https://img.shields.io/badge/View-Market%20Basket%20Analysis-blue?style=for-the-badge)](scripts/market%20basket-analytics-algorithm/MBA.md)
 
 This dashboard focuses on **product association analysis**.
 

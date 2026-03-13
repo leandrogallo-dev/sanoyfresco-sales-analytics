@@ -63,7 +63,37 @@ This dashboard provides an overview of the **overall business performance**.
 | **Ticket Medio por Cliente** | Average spending per customer |
 
 ---
+# 🛒 Market Basket Analysis Dashboard
 
+![Market Basket Dashboard](scripts/market basket-analytics-algorithm/MBA.md)
+
+This dashboard focuses on **product association analysis**.
+
+Market Basket Analysis identifies **products that are frequently purchased together**.
+
+---
+
+## Key Metrics
+
+| Metric | Description |
+|------|-------------|
+| **Número de Reglas** | Total association rules detected |
+| **Confianza Media** | Average probability that product B is purchased when product A is purchased |
+| **Lift Medio** | Strength of association between products |
+
+---
+
+## Association Rules Table
+
+The table shows detected product relationships:
+
+| Column | Description |
+|------|-------------|
+| Antecedente | Product A |
+| Consecuente | Product B |
+| Lift | Strength of the association |
+
+---
 
 # 🗂 Dataset
 

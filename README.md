@@ -162,12 +162,12 @@ These metrics are commonly used in **business intelligence dashboards and retail
 sanoyfresco-sales-analytics
 │
 ├── dashboard/ # dashboard from power BI
-├── datasets/ # Dataset used for the analysis
-├── sql/ # SQL scripts with analytical queries
+├── datasets/  # Dataset used for the analysis
+├── sql/       # SQL scripts with analytical queries
 │
-├── docs/ # Project documentation
+├── docs/      # Project documentation
 │
-├── README.md # Project documentation
+├── README.md  # Project documentation
 └── LICENSE
 ```
 
